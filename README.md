@@ -1,5 +1,1 @@
-# Business Plan BOT
-Building a chatbot that chats with a user and generate a business plan for him and pay before he gets the pdf document of the business plan.
----
-## Features
-- Payments for Business Plan
+## Build a private, offline AI research assistant that helps me research and understand scientific papers, capture research ideas, and organize knowledge.
