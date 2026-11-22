@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "das-research-mate"
+version = "0.1.0"
+description = ""
+authors = ["Musa Adamu Wakili <musawakiliml@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.165.0"
+requests = "^2.34.2"
+pydantic-settings = "^2.16.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
